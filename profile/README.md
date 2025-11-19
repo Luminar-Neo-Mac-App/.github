@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://get-software-osx.github.io/.github/luminarneomac">  
+<a href="https://instal-apps-osx.github.io/.github/luminarneomac">  
 <img src="https://img.shields.io/badge/Get_Luminar_Neo-darkblue?style=for-the-badge&logo=apple" alt="Get Luminar Neo">  
 </a>  
 </div>  
